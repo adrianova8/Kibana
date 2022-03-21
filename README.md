@@ -21,4 +21,4 @@ _We are beginning to become familiar with the interactive display of graphics us
  - Implement a dashboard that generates graphics using each of the different types of graphics that Kibana offers.
 
 
-Classroom Resources: https://youtu.be/gQ1c1uILyKI
+Classroom Resources:  https://youtu.be/gQ1c1uILyKI
